@@ -1,0 +1,1 @@
+from .meal_routes import meal_bp
